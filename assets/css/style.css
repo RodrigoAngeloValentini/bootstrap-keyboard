@@ -1,0 +1,19 @@
+#teclado-input-result{
+    margin-bottom: 20px;
+}
+#teclado{
+    margin-right: -12px;
+    margin-left: -12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#teclado .btn{
+    font-size: 16px;
+    font-weight: bold;
+}
+.teclado-row{
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+
+
